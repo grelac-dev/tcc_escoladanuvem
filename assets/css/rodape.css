@@ -1,0 +1,20 @@
+
+.info-rodape{
+    width: 100%;
+    border: 1px red;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    
+}
+.copyright{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.info-rodape h2{
+    font-weight: 700;
+    color: rgb(94, 94, 136);
+}
